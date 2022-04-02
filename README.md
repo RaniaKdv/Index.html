@@ -2,7 +2,7 @@
   <head>
     <title>My profile<title>
    </head>
-      <body>
+      <body bgcolor="grey" >
         <h2>Information about me</h2>
         <p><br><h4>
           Name:
